@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc602c70-256a-46c5-af6e-a40aa17f7205" name="Changes" comment="hm1">
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.1/lesson1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.1/lesson1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.2/lesson1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/lesson1.2/lesson1.2.js" afterDir="false" />
+    <list default="true" id="bc602c70-256a-46c5-af6e-a40aa17f7205" name="Changes" comment="hm2">
+      <change afterPath="$PROJECT_DIR$/dop/dop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dop/dop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.1/lesson3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.1/lesson3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.2/lesson3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.2/lesson3.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3/lesson3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/lesson3/lesson3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/lesson1/lesson1.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson1/lesson1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/lesson2.02/lesson2.02.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2.02/lesson2.02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/lesson2.3/lesson2.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2.3/lesson2.3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -57,14 +68,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dop" />
+      <recent name="$PROJECT_DIR$/lesson2/lesson2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722879229969</updated>
-      <workItem from="1722879231048" duration="3618000" />
+      <workItem from="1722879231048" duration="45094000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <option name="closed" value="true" />
@@ -91,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722880388104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hm1">
+      <option name="closed" value="true" />
+      <created>1722883180473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722883180473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hm2">
+      <option name="closed" value="true" />
+      <created>1723209372089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723209372089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hm1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm1" />
+    <MESSAGE value="hm2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm2" />
   </component>
 </project>

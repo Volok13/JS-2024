@@ -1,0 +1,17 @@
+.box{
+    list-style-type: none;
+    padding: 10px 30px;
+    background: darkseagreen;
+    border-radius: 10px;
+    box-shadow: 27px 38px 57px -5px rgba(0,0,0,0.75);
+    transition: transform 0.3s ease;
+}
+.box>li{
+    font-size: 20px;
+    margin: 5px 5px;
+    color: cornsilk;
+}
+
+.box:hover{
+    transform: scale(1.1);
+}
