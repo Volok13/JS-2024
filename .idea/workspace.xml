@@ -4,23 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc602c70-256a-46c5-af6e-a40aa17f7205" name="Changes" comment="hm2">
-      <change afterPath="$PROJECT_DIR$/dop/dop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dop/dop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.1/lesson3.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.1/lesson3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.2/lesson3.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.2/lesson3.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.3/lesson3.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3/lesson3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3/lesson3.js" afterDir="false" />
+    <list default="true" id="bc602c70-256a-46c5-af6e-a40aa17f7205" name="Changes" comment="hm3">
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.01/lesson4.01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.01/lesson4.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.02/lesson4.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.02/lesson4.02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.03/lesson4.03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.03/lesson4.03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.04/lesson4.04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.04/lesson4.04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.1/lesson4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.1/lesson4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.2/lesson4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.2/lesson4.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.3/lesson4.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.3/lesson4.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.4/lesson4.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.4/lesson4.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.5/lesson4.5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.5/lesson4.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.5/lesson4.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.6/lesson4.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.6/lesson4.6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.7/lesson4.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.7/lesson4.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.8/lesson4.8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.8/lesson4.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.9/lesson4.9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4.9/lesson4.9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4/lesson4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/lesson4/lesson4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/lesson6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/lesson7/lesson7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/lesson7/lesson7.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/lesson2.02/lesson2.02.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2.02/lesson2.02.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/lesson2.3/lesson2.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2.3/lesson2.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dop/dop.js" beforeDir="false" afterPath="$PROJECT_DIR$/dop/dop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/lesson3.4/lesson3.4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +61,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Volok13"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Volok13&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Volok13/JS-2024.git",
-    "accountId": "a3435c65-189e-4782-8d3a-496a7e57301e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Volok13/JS-2024.git&quot;,
+    &quot;accountId&quot;: &quot;a3435c65-189e-4782-8d3a-496a7e57301e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kFVICPjEWvGOig0ylKUxzQ3W1j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,27 +84,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/lesson4.02" />
       <recent name="$PROJECT_DIR$/dop" />
       <recent name="$PROJECT_DIR$/lesson2/lesson2" />
     </key>
@@ -103,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722879229969</updated>
-      <workItem from="1722879231048" duration="45094000" />
+      <workItem from="1722879231048" duration="46419000" />
+      <workItem from="1723908749305" duration="36089000" />
     </task>
     <task id="LOCAL-00001" summary="hm1">
       <option name="closed" value="true" />
@@ -129,15 +153,35 @@
       <option name="project" value="LOCAL" />
       <updated>1723209372089</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hm3">
+      <option name="closed" value="true" />
+      <created>1723472332557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723472332557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hm1" />
     <MESSAGE value="hm2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm2" />
+    <MESSAGE value="hm3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm3" />
   </component>
 </project>
